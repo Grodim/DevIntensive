@@ -1,3 +1,20 @@
 <resources>
-    <string name="app_name">DevIntensive</string>
+    <string name="app_name">Фролов Вадим</string>
+    <string name="rating">Рейтинг</string>
+    <string name="code_lines">Написано строк кода</string>
+    <string name="projects">Проектов</string>
+    <string name="mobile">Мобильный</string>
+    <string name="email">E-mail</string>
+    <string name="vk_profile">Профиль VK</string>
+    <string name="repository">Репозиторий</string>
+    <string name="about_me">О Себе</string>
+
+    <string name="rating_value">7</string>
+    <string name="code_lines_value">7</string>
+    <string name="projects_value">7</string>
+    <string name="mobile_number">+7(905)767-78-92</string>
+    <string name="email_address">vadik.fr@gmail.com</string>
+    <string name="vk_profile_address">http://vk.com/vadik__f</string>
+    <string name="repository_address">github.com/Grodim/DevIntensive</string>
+    <string name="about_me_text">Нельзя просто так взять и рассказать о себе</string>
 </resources>
